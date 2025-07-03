@@ -30,7 +30,8 @@ else:
             print('YES')
         else:
             print('NO')'''
-                
+
+#Correct one
 def helper(s):
     new_lst = s.copy()
     for i in range(len(new_lst)):
